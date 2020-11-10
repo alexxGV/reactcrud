@@ -1,3 +1,20 @@
+# DOCUMENTACIÓN (capturas)
+
+## Home
+![Home](./src/images/Home.png)
+
+## Insertar
+![Insertar](./src/images/Insertar.png)
+
+## Detalles
+![Detalles](./src/images/Detalles.png)
+
+## Modificar
+![Modificar](./src/images/Modificar.png)
+
+## Eliminar
+![Eliminar](./src/images/Eliminar.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
